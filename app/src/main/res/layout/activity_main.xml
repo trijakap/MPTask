@@ -317,7 +317,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Mencari tukang senjata"
+            android:text="Jago nembak"
             android:textColor="#222"/>
     </LinearLayout>
 
@@ -335,7 +335,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Mencari tukang senjata"
+                android:text="Jago kabur"
                 android:textColor="#222"/>
         </LinearLayout>
 
@@ -353,7 +353,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Mencari tukang senjata"
+                android:text="Pantang menyerah"
                 android:textColor="#222"/>
         </LinearLayout>
 
